@@ -2,7 +2,7 @@
   "name": "my-project",
   "version": "1.0.0",
   "description": "",
-  "main": "convertBytesToHuman.js",
+  "main": "hw1/convertBytesToHuman.js",
   "scripts": {
     "test": "jest"
   },
